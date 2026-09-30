@@ -58,11 +58,18 @@ Modern Android notes application focused on organization and attachments.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub & Technologies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musical143143&show_icons=true&hide_border=true&theme=transparent)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musical143143&layout=compact&hide_border=true&theme=transparent)
+**Main languages:** Java • Kotlin • Bash • C/C++
+
+**Focus:** Android • AOSP • Custom ROMs • Linux • System UI
 
 ---
 
